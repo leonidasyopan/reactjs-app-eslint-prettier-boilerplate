@@ -5,13 +5,13 @@
     <img src="https://leonidasyopan.com/img/logo-leonidas-yopan.png" alt="Logo Leonidas Yopan" width="300" height="94" target="_blank">
   </a>
 
-  <h3 align="center">meSSION | Projeto Crowsourcing</h3>
+  <h3 align="center">ReactJS + TypeScript | Personal Boilerplate</h3>
 
   <p align="center">
-    Aplicação para tentar encontrar amigos/conhecidos do passado que porventura tenhamos perdido o contato.
+    This is a simple Boilerplate to jump start a ReactJS project, using TypeScript.
     <br />
     <br />
-    Mais informações sobre o desenvolvedor:
+    More information about Leonidas Yopan:
     <br />
     <a href="https://www.linkedin.com/in/leonidasyopan/" target="_blank">LinkedIn</a>
     ·
@@ -24,13 +24,17 @@
 </p>
 
 
-# Projeto Crowsourcing - Ideia Original
+# Bolerplate description
 
-Esse é uma primeira versão, feita em PHP, de um projeto pessoal que tem como principal objetivo tentar encontrar amigos/conhecidos do passado que porventura tenhamos perdido o contato.
-
-Obs.: Vou desenvolver uma versão nova dele usando NodeJS para a API e ReactJS e React Native para as interfaces web e mobile, respectivamente.
-
-<img src="https://leonidasyopan.com/img/mession.jpg" alt="Mession Live Version">
+This boilerplate has some of my favororite (and most times used) dependencies:
+- eslint
+- prettier
+- polished
+- react-dom
+- react-icons
+- react-router-dom
+- react-scriptsstyled-components
+- typescript
 
 <!-- LICENSE -->
 ## Licença
