@@ -24,7 +24,7 @@
 </p>
 
 
-# Bolerplate description
+# Boilerplate description
 
 This boilerplate has some of my favororite (and most times used) dependencies:
 - eslint
