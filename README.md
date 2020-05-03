@@ -26,6 +26,11 @@
 
 # Boilerplate description
 
+*Install:* run the following command to install dependencies and start using it:
+```
+yarn
+```
+
 This boilerplate has some of my favororite (and most times used) dependencies:
 - eslint
 - prettier
