@@ -38,7 +38,8 @@ This boilerplate has some of my favororite (and most times used) dependencies:
 - react-dom
 - react-icons
 - react-router-dom
-- react-scriptsstyled-components
+- react-scripts
+- styled-components
 - typescript
 
 <!-- LICENSE -->
