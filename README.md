@@ -23,32 +23,31 @@
   </p>
 </p>
 
-
 # Boilerplate description
 
-*Install:* run the following command to install dependencies and start using it:
+_Install:_ run the following command to install dependencies and start using it:
+
 ```
 yarn
 ```
 
 This boilerplate has some of my favororite (and most times used) dependencies:
+
 - eslint
 - prettier
-- polished
 - react-dom
 - react-icons
-- react-router-dom
 - react-scripts
-- styled-components
 - typescript
 
 <!-- LICENSE -->
+
 ## Licença
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
-
 <!-- CONTACT -->
+
 ## Contato
 
 Leônidas Yopán - [@leonidasyopan](https://twitter.com/leonidasyopan) - leonidasyopan@gmail.com
